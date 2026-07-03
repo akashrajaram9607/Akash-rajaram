@@ -39,7 +39,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-rajaram&layout=compact&theme=tokyonight)
 
----
 
 ## Connect with me
 
