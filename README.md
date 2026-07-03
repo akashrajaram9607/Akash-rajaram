@@ -20,3 +20,9 @@
 - ❤️ Love Building Web Applications
 
 ---
+
+## Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,docker,linux" />
+</p>
