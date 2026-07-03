@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;MERN+Developer;Software+Engineer;Always+Learning" />
+</p>
+
+
+
+
+
 # Hi 👋, I'm Akash Rajaram
 
 ## Full Stack Developer
@@ -29,6 +37,3 @@
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;MERN+Developer;Software+Engineer;Always+Learning" />
-</p>
