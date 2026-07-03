@@ -37,3 +37,16 @@
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-rajaram&layout=compact&theme=tokyonight)
+
+---
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/akash-rajaram-?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+[Email](mailto:akashrajaram9226@gmail.com)
+
+---
+
+
