@@ -29,8 +29,6 @@
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Akash-rajaram&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com/?user=Akash-rajaram&theme=tokyonight)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;MERN+Developer;Software+Engineer;Always+Learning" />
+</p>
