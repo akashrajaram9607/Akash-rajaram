@@ -26,3 +26,9 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,docker,linux" />
 </p>
+
+---
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Akash-rajaram&show_icons=true&theme=tokyonight)
